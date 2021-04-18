@@ -1,7 +1,7 @@
-# Project-2
+# Multivariate Time Series Analysis of Sentiment Scores
+
 
 # Gathering data from Twitter and NewsApi
-
 
 ## Installs for Twint
 pip install nest_asyncio
